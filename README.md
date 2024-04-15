@@ -1,8 +1,10 @@
-To run this simply edit the Cisco_Anyconnect_Input.txt file and place in the Cisco Anyconnect installation directory, the default location on Windows is:
+## To run this simply edit the Cisco_Anyconnect_Input.txt file and place in the Cisco Anyconnect installation directory, the default location on Windows is:
 
+```
 C:\Program Files (x86)\Cisco\Cisco AnyConnect Secure Mobility Client
+```
 
-To edit the Cisco_Anyconnect_Input.txt follow the template below, replace the words and brackets with your own parameters:
+## To edit the Cisco_Anyconnect_Input.txt follow the template below, replace the words and brackets with your own parameters:
 
 ```
 connect [HOST]
