@@ -4,7 +4,7 @@ C:\Program Files (x86)\Cisco\Cisco AnyConnect Secure Mobility Client
 
 To edit the Cisco_Anyconnect_Input.txt follow the template below, replace the words and brackets with your own parameters:
 
-----
+```
 
 connect [HOST]
 
@@ -15,8 +15,8 @@ connect [HOST]
 [PASSWORD]
 
 y
+```
 
-----
 Each line item is described below:
 
 The URL to your VPN server
