@@ -6,9 +6,13 @@ To edit the Cisco_Anyconnect_Input.txt follow the template below, replace the wo
 ----
 
 connect [HOST]
+
 [GROUP or 0 or 1]
+
 [USER]
+
 [PASSWORD]
+
 y
 
 ----
