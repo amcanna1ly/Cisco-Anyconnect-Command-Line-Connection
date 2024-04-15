@@ -16,9 +16,14 @@ connect [HOST]
 y
 
 ----
+Each line item is described below
 
-Line 7 = The URL to your VPN server
-Line 8 = Your VPN group, this line can be omitted
-Line 9 = Your VPN account username
-Line 10 = Your VPN account password
-Line 11 = Accepts the banner that displays if you have one that displays when logging into a VPN using the GUI. Default is "y"
+The URL to your VPN server
+
+Your VPN group, this line can be omitted
+
+Your VPN account username
+
+Your VPN account password
+
+Accepts the banner that displays if you have one that displays when logging into a VPN using the GUI. Default is "y"
