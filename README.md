@@ -19,7 +19,11 @@ y
 Each line item is described below:
 
 The URL to your VPN server
+
 Your VPN group, this line can be omitted
+
 Your VPN account username
+
 Your VPN account password
+
 Accepts the banner that displays if you have one that displays when logging into a VPN using the GUI. Default is "y"
